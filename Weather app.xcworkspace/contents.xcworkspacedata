@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "Controller">
+   </Group>
+   <Group
+      location = "container:"
+      name = "Model">
+   </Group>
+   <Group
+      location = "container:"
+      name = "extras">
+   </Group>
+   <FileRef
+      location = "group:Weather app.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
